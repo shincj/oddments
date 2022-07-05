@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("zzz\n");
+	printf("baboya\n");
 	return 0;
 }
